@@ -1,0 +1,36 @@
+Ex1.2-3
+
+I'm not actually sure what I'm supposed to deriving here. I guess this stems
+from the fact that I don't quite understand what a uniquieness principle is
+supposed to do.
+
+Ex1.4
+What are the definitional equations mentioned in this question? That would help me
+to understand how to define `recN` in terms of `iterRecℕ`.
+
+Ex1.5-8
+More on `definitional equalities`. I guess this stems from deriving an arbitrary
+`ind` principle for a given `rec` principle.
+
+Also, for 1.6, what does this have to do with `function extensinality`?
+
+For 1.7, how do you avoid using universes to define `==` types?
+
+For 1.8, how do you verify a Semiring? (What is a semiring?) This would be
+really cool to see.
+
+Ex1.10
+
+From what I know, `ack` is not "really" a naturally recursive program. My
+original strategy for this was to derive `add` using two calls to `recN`,
+which is essentially performing case analysis on both parameters to `add`.
+
+Ex1.14-15
+For 1.14, not really sure where to go from this. I originally thought this had
+to do with `proof relevance`, but I figured that that was too vague of an answer
+to count.
+
+For 1.15, I read the part of the chapter about `indiscernability of identicals`,
+which, from my current understanding, is related to `proof irrelevance`. This
+contradicts with what I currently know about `path induction` and J. I think
+this would also be useful to see.

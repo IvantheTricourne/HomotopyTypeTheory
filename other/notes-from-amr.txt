@@ -1,0 +1,37 @@
+
+- Diagrams Library for generating SVG
+
+- ANCHOR first end
+- Go somewhere (or not)
+- ANCHOR second end when you get there
+- Pull in the string (if you can, then == else no)
+
+
+- Two different models of type theory
+- Both have a notion of equivalence (one treats isomorphisms as a
+					 form of equivalence)
+- TT + == + k  = okay
+- TT + ==i + j = okay
+- TT + ==i + k = not okay
+   - you can prove that T == F
+   - swap and id
+
+
+Week1
+3/4 :: 3-4pm, 8-10pm (3hours)
+3/5 :: 10-12pm       (2hours)
+
+Week2
+3/7  :: 12-1pm        (1hours)
+3/9  :: 3-4pm         (1hours)
+3/11 :: 2:30-3:30     (1hours)
+3/12 :: 10-12pm       (2hours)
+
+Week3
+3/14 :: 8-11am        (3hours)
+3/15 :: 10-12pm       (2hours)
+
+Week4
+3/22 :: 1-4pm         (3hours)
+3/24 :: 4-5pm         (1hours)
+3/25 :: 3-4pm         (1hours)
