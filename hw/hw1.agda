@@ -161,7 +161,7 @@ iterRecℕ c s = λ n → iter c (s n) n
 -- Ex1.7
 -- Ex1.8
 -- mul and exp are defined above
-Semiring[ℕ+×01] : (x y z : ℕ) → ((add x 0 ≡ x) ×
+-- Semiring [ℕ+×01] : (x y z : ℕ) → ((add x 0 ≡ x) ×
 
 -- Ex1.9 Derive Fin and fmax
 data Fin : ℕ → Set where
